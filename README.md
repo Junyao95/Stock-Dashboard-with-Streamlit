@@ -75,6 +75,6 @@ The Streamlit interface is split into:
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Junyao95/Stock-Dashboard-with-Streamlit/blob/main/Dashboard%20picture%201.png?raw=true))
+![App Screenshot](https://github.com/Junyao95/Stock-Dashboard-with-Streamlit/blob/main/Dashboard%20picture%201.png?raw=true)
 
-![App Screenshot](images/Dashboard_picture_2.png)
+![App Screenshot](https://github.com/Junyao95/Stock-Dashboard-with-Streamlit/blob/main/Dashboard%20picture%202.png?raw=true)
